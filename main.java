@@ -8,6 +8,7 @@
 import java.time.LocalDateTime;
 import java.util.Scanner;
 
-public class main{
+
+public class main {
     
 }
